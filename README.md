@@ -2,7 +2,7 @@
 
 A modern, responsive, SaaS-style admin dashboard built for **Task 1** of the Algoryx Frontend Internship.
 
-**Live demo:** https://algoryx-dashboard-tau.vercel.app/
+**Live demo:** https://algoryx-dashboard-tau.vercel.app
 
 ## 💻 Tech stack
 React 18 (Vite), Tailwind CSS, Lucide React icons, React Hooks (`useState`, `useMemo`, `useEffect`, `useRef`, `useContext`)
@@ -56,4 +56,5 @@ npm run dev
 Build for production: `npm run build`
 
 ## Author
-Aman Kumar Raman
+**Aman Kumar Raman**
+Frontend Developer Intern, Algoryx Technologies
