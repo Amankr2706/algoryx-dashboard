@@ -57,4 +57,5 @@ Build for production: `npm run build`
 
 ## Author
 **Aman Kumar Raman**
+
 Frontend Developer Intern, Algoryx Technologies
