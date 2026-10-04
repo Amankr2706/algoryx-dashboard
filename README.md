@@ -2,7 +2,7 @@
 
 A modern, responsive, SaaS-style admin dashboard built for **Task 1** of the Algoryx Frontend Internship.
 
-**Live demo:** https://algoryx-dashboard-psi.vercel.app
+**Live demo:** https://algoryx-dashboard-tau.vercel.app/
 
 ## 💻 Tech stack
 React 18 (Vite), Tailwind CSS, Lucide React icons, React Hooks (`useState`, `useMemo`, `useEffect`, `useRef`, `useContext`)
@@ -20,8 +20,6 @@ React 18 (Vite), Tailwind CSS, Lucide React icons, React Hooks (`useState`, `use
 - Working Invoices (filter, mark paid, download), Wallet (add funds, withdraw), Settings (edit profile, preferences) and Profile pages
 - Help center, plans and privacy/terms dialogs
 - Fully responsive: mobile, tablet, desktop
-
-## Screenshots
 
 ### **Dashboard Overview**  :
 <img width="1898" height="862" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/0c2e7b1c-4a64-44ed-84a4-9dee7f69711a" />
