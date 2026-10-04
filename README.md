@@ -2,7 +2,7 @@
 
 A modern, responsive, SaaS-style admin dashboard built for **Task 1** of the Algoryx Frontend Internship.
 
-**Live demo:** _add your Vercel link here_
+**Live demo:** https://algoryx-dashboard-psi.vercel.app
 
 ## 💻 Tech stack
 React 18 (Vite), Tailwind CSS, Lucide React icons, React Hooks (`useState`, `useMemo`, `useEffect`, `useRef`, `useContext`)
@@ -23,13 +23,21 @@ React 18 (Vite), Tailwind CSS, Lucide React icons, React Hooks (`useState`, `use
 
 ## Screenshots
 
-### **Dashboard overview**  :
+### **Dashboard Overview**  :
+<img width="1898" height="862" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/0c2e7b1c-4a64-44ed-84a4-9dee7f69711a" />
 
+### **Orders Table**  :
+<img width="1898" height="864" alt="Orders Table" src="https://github.com/user-attachments/assets/6d91fd67-e90d-482b-b062-d0a46800f22b" />
 
 ### **Invoices and Wallet**  :
+<img width="1898" height="861" alt="Invoice" src="https://github.com/user-attachments/assets/0dec7046-f58f-443a-a0ad-0e38c9dc09e3" />
+<img width="1916" height="863" alt="Wallet" src="https://github.com/user-attachments/assets/c67259e9-adf7-4462-89fb-85d114da5159" />
 
+### **Profile Card**  :
+<img width="1917" height="862" alt="Profile Card" src="https://github.com/user-attachments/assets/44da3a02-7dc2-4e1d-9592-46b06cc39842" />
 
-### **Invoices and Wallet**  :
+### **Mobile View**  :
+<img width="828" height="465" alt="Mobile View" src="https://github.com/user-attachments/assets/56a9a677-f6e0-4ef9-8dc0-9eb20d9ff6f7" />
 
 
 ## 📂 Folder structure
